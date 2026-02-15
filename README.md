@@ -1,3 +1,5 @@
+![C](https://img.shields.io/badge/language-C-blue)
+
 # Simulador de Retângulos (mundo 80x25)
 
 Programa em C que permite **criar**, **mover** e **apagar** retângulos num “mundo” 2D com dimensões **80 (largura) x 25 (altura)**.  
